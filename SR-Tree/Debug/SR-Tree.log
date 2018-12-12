@@ -1,0 +1,7 @@
+﻿  SR-Tree.cpp
+c:\users\luis\source\repos\sr-tree\sr-tree\sr-tree.cpp(23): warning C4244: 'argumento': conversión de 'double' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=float
+          ]
+  SR-Tree.vcxproj -> C:\Users\Luis\source\repos\SR-Tree\Debug\SR-Tree.exe
